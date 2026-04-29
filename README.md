@@ -1,1 +1,1 @@
-Địa chỉ host để test: http://phantichthietke.22web.org
+Địa chỉ host để test: https://phantichthietke.22web.org
